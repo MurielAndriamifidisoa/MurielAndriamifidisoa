@@ -1,4 +1,4 @@
-# 👋 Bonjour, moi c’est [Muriel] !
+# 👋 Bonjour, moi c’est Muriel !
 
 Bienvenue sur mon profil GitHub ! Je suis passionné par le développement et la technologie, et j'aime apprendre, créer et partager ce que je construis. 🚀
 
@@ -7,7 +7,7 @@ Bienvenue sur mon profil GitHub ! Je suis passionné par le développement et la
 - 🔭 Je travaille actuellement sur : `Ton projet actuel`
 - 🌱 J'apprends actuellement : `Technologie que tu apprends (ex : Laravel, Angular, Next.js, etc.)`
 - 💬 Pose-moi des questions sur : `Domaines où tu es à l’aise (ex : développement web, API REST, etc.)`
-- 📫 Me contacter : andriamifidisoaeliseemuriel@gmail.com | [LinkedIn](https://www.linkedin.com/in/elis%C3%A9-muriel-andriamifidisoa)
+- 📫 Me contacter : andriamifidisoaeliseemuriel@gmail.com | [LinkedIn]https://www.linkedin.com/in/elis%C3%A9-muriel-andriamifidisoa
 - ⚡ Fun fact : `Une anecdote sympa ou amusante te concernant`
 
 ## 🛠️ Compétences principales
