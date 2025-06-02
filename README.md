@@ -34,7 +34,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MurielAndriamifidisoal&show_icons=true&theme=radical" alt="Muriel's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MurielAndriamifidisoa&show_icons=true&theme=radical" alt="Muriel's GitHub stats"/>
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MurielAndriamifidisoa&theme=radical" alt="GitHub Streak" />
   <br />
