@@ -18,7 +18,7 @@
 ### 📫 Reach Me
 <p align="left">
   <a href="mailto:andriamifidisoaeliseemuriel@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/elisé muriel andriamifidisoa" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/elisé-muriel-andriamifidisoa" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://kaggle.com/elismuriel" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
 </p>
 
@@ -34,11 +34,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elismuriel&show_icons=true&theme=radical" alt="Muriel's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MurielAndriamifidisoal&show_icons=true&theme=radical" alt="Muriel's GitHub stats"/>
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elismuriel&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MurielAndriamifidisoa&theme=radical" alt="GitHub Streak" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elismuriel&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MurielAndriamifidisoa&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
 ---
