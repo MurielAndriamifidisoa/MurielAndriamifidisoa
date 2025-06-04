@@ -26,7 +26,7 @@
 
 ### 🛠️ Languages and Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,php,java,csharp,html,css,flutter,dart,nodejs,angular,vue,nextjs,nuxtjs,react,laravel,symfony,flask,spring,postgres,mysql,opencv,tensorflow,pytorch,sklearn,seaborn,pandas,postman,figma,electron,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,php,java,csharp,html,css,flutter,expo,dart,nodejs,angular,vue,nextjs,nuxtjs,react,laravel,symfony,flask,spring,postgres,mysql,opencv,tensorflow,pytorch,sklearn,seaborn,pandas,postman,figma,electron,androidstudio" />
 </p>
 
 ---
